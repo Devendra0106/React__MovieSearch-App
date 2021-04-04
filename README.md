@@ -16,6 +16,9 @@ Application developed using React. Used to search rating and overview of movies.
 
 ![image](https://user-images.githubusercontent.com/45028951/112045735-30ba1980-8b71-11eb-8aa0-3031fa74490e.png)
 
+## Live Demo
+Click Here(https://movie-search-app-865db.web.app/)
+
 ## To Run this App
 
 Install node_modules
